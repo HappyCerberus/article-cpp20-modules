@@ -1,12 +1,12 @@
 # C++ 20 Modules - Complete Guide
 
 This is a repository containing example code for the C++20 Modules article and 
-videos
+videos.
 
 To test out the code, you can use docker images I created based on the conan 
 docker images.
 
-Download the repository:.https://github.com/HappyCerberus/conan-docker-tools
+Download the repository: https://github.com/HappyCerberus/conan-docker-tools
 
 For Clang trunk:
 
