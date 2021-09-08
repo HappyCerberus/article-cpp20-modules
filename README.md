@@ -3,6 +3,10 @@
 This is a repository containing example code for the C++20 Modules article and 
 videos.
 
+The article: https://itnext.io/c-20-modules-complete-guide-ae741ddbae3d
+
+The video: https://www.youtube.com/watch?v=WRCwciJ5MTE
+
 To test out the code, you can use docker images I created based on the conan 
 docker images.
 
